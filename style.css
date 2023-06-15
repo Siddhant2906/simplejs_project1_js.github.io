@@ -1,0 +1,14 @@
+body{
+    height:100vh;
+}
+
+section{
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    cursor: pointer;
+    /* background-color: rgb(81, 131, 223); */
+}
